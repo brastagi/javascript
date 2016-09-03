@@ -1,1 +1,1 @@
-adblock = false;
+﻿adblock = false;
